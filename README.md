@@ -1,5 +1,7 @@
 # 👥 Employee Attrition Dashboard
 
+**🚀 [Try the live app here](https://aditi-employee-attrition.streamlit.app)**. No installation needed, it opens in your browser.
+
 An HR analytics dashboard that asks **"Why do employees quit?"** and answers with data and
 **organisational psychology**.
 
